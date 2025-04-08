@@ -1,13 +1,14 @@
 #Tatjana Grencione
 
-#1 Bērziņa Tīna
+#1 Bortkevičs Gustavs
 
-#2 Burmistris Ernests
+#2 Briģis Roberts
 
-#3 Jefremovs Ēriks Miķelis
+#3 Ceriņš Jānis
 
-#4 Krastiņš Ričards
+#4 Junkers Krišjānis
 
-#5 Lielanse Dora Līva
+#5 Lisovskis Ričards
 
-#6 Stramkale Emīlija
+#6 Līberts Emīls
+
